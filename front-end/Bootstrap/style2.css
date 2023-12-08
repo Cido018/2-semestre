@@ -1,0 +1,40 @@
+@media (min-width: 576px)
+{
+    .principal{
+        background-image: url(/download\ \(1\).jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+@media (min-width: 768px)
+{
+    .principal{
+        background-image: url(/images.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}
+@media (min-width: 992px)
+{
+    .principal{
+        background-image: url(/download.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+@media (min-width: 1200px)
+{
+    .principal{
+        background-image: url(/carros.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+@media (min-width: 1400px)
+{
+    .principal{
+        background-image: url(/3f19648f90e642ff888bc85c28922c0a.gif);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
